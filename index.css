@@ -1,0 +1,111 @@
+#top {
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal !important;
+	font-weight: 600 !important;
+	font-size: 24px !important;
+	line-height: 24px;
+	color: #003363;
+}
+
+
+
+#myName {
+	font-family: Montserrat;
+	font-size: 68px;
+	font-style: normal;
+	font-weight: 700;
+	text-align: center;
+	color: white;
+}
+
+#myTitle {
+	font-family: Montserrat;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 700;
+	text-align: center;
+	color: white;
+}
+
+#landing p {
+	font-family: Montserrat;
+	color: white;
+}
+
+#landing {
+	background-image: url(./images/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#myProj {
+	font-family: Montserrat;
+	font-size: 32px;
+	font-style: normal;
+}
+
+#tools {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.11), rgba(0, 0, 0, 0.11)), url(./images/bg-tools.jpg);
+	background-size: cover; /
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding: 50px 0;
+	color: white;
+}
+
+#tools h1 {
+	font-family: Montserrat;
+	font-size: 68px;
+	font-style: normal;
+}
+
+#projects img {
+	height: 400px;
+	width: 400px;
+	align-items: center;
+}
+
+.card-text, .card-title {
+	font-family: Montserrat;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 100;
+}
+
+#contact h1{
+	font-family: Montserrat;
+	font-size: 68px;
+	font-style: normal;
+}
+
+body {
+	overflow-x: hidden; 
+}
+
+.container {
+	max-width: 100%; 
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#msgForm h4 {
+	font-family: Montserrat;
+	font-size: 32px;
+	font-style: normal;
+}
+
+#msgForm {
+	font-family: Montserrat;
+	font-size: 18px;
+	font-style: normal;
+}
+
+footer {
+	font-family: Montserrat;
+	font-size: 18px;
+	font-style: normal;
+}
+

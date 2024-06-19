@@ -27,14 +27,13 @@
 	color: white;
 }
 
-#landing p {
+#landing h1, h3, p {
 	font-family: Montserrat;
 	color: white;
 }
 
 #landing {
 	background-image: url(./images/bg.jpg);
-	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -47,7 +46,6 @@
 
 #tools {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.11), rgba(0, 0, 0, 0.11)), url(./images/bg-tools.jpg);
-	background-size: cover; /
 	background-repeat: no-repeat;
 	background-position: center center;
 	padding: 50px 0;
@@ -71,6 +69,7 @@
 	font-size: 18px;
 	font-style: normal;
 	font-weight: 100;
+	color: black;
 }
 
 #contact h1{
@@ -80,17 +79,8 @@
 }
 
 
-.container {
-	max-width: 100%; 
-	padding-right: 15px;
-	padding-left: 15px;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-#msgForm h4 {
+#msgForm h5 {
 	font-family: Montserrat;
-	font-size: 32px;
 	font-style: normal;
 }
 
@@ -102,12 +92,6 @@
 
 footer {
 	font-family: Montserrat;
-	font-size: 18px;
 	font-style: normal;
 }
 
-
-.logo {
-	max-width: 80px; 
-	height: auto; 
-}

@@ -56,13 +56,13 @@
 
 #tools h1 {
 	font-family: Montserrat;
-	font-size: 68px;
+	font-size: 32px;
 	font-style: normal;
 }
 
 #projects img {
-	height: 400px;
-	width: 400px;
+	height: 200px;
+	width: 200px;
 	align-items: center;
 }
 
@@ -75,13 +75,10 @@
 
 #contact h1{
 	font-family: Montserrat;
-	font-size: 68px;
+	font-size: 32px;
 	font-style: normal;
 }
 
-body {
-	overflow-x: hidden; 
-}
 
 .container {
 	max-width: 100%; 
@@ -109,3 +106,8 @@ footer {
 	font-style: normal;
 }
 
+
+.logo {
+	max-width: 80px; 
+	height: auto; 
+}
